@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yulia Ayu Rinjani</string>
+    <string name="jenis_mobil">Kind of car</string>
+    <string name="tekan_poster_film_untuk_membuka_galeri">(Tap the car poster to open the gallery)</string>
+    <string name="biodata">Biodata</string>
+    <string name="biodata_mahasiswa">Profile</string>
+    <string name="nama">Name</string>
+    <string name="alamat">Address</string>
+    <string name="hobi">Hobby</string>
+    <string name="jurusan">Major</string>
+    <string name="avanza">Avanza</string>
+    <string name="avanza_jenis">Honda</string>
+    <string name="xenia">Xenia</string>
+    <string name="xenia_jenis">Honda</string>
+    <string name="honda_hrv">Honda HRV</string>
+    <string name="honda_hrv_jenis">Honda</string>
+    <string name="inova">Inova</string>
+    <string name="inova_jenis">Toyota</string>
+    <string name="civic">Civic</string>
+    <string name="civic_jenis">Toyota</string>
+    <string name="brio">Brio</string>
+    <string name="brio_jenis">Toyota</string>
+    <string name="bmw1">Bmw1</string>
+    <string name="bmw1_jenis">Bmw</string>
+    <string name="bmw2">Bmw2</string>
+    <string name="bmw_jenis">Bmw</string>
+    <string name="bmw3">Bmw3</string>
+    <string name="bmw3_jenis">Bmw</string>
+    <string name="avanza_deskripsi">The Toyota Avanza is a car produced in Indonesia by the Daihatsu manufacturer, which is also marketed by Daihatsu under the name Daihatsu Xenia. The first generation of this car was launched in December 2003.[1] The name \"Avanza\" comes from the Italian and Spanish avanzato/avanza, which means upgrade</string>
+    <string name="xenia_deskripsi">\"Daihatsu Xenia is the name of an MPV type car that was designed and produced jointly by Astra Daihatsu Motor and Toyota-Astra Motor. ... For the front suspension, Xenia uses MacPherson struts. While the 1.3 and 1.5 variants have added stabilizer. Daihatsu Xenia is the name of the car This type of MPV is designed and produced jointly by Astra Daihatsu Motor and Toyota-Astra Motor. For the front suspension, Xenia uses a MacPherson strut. While the 1.3 and 1.5 variants have added a stabilizer.\"</string>
+    <string name="honda_hrv_deskripsi">\"The Honda HR-V is a mini SUV produced by Honda from 1998 to 2006 and then from 2014 to the present. The first generation HR-V was based on the Logo and was sold in Japan and several countries in Asia-Pacific from 1998 to 2006. .\"</string>
+    <string name="inova_deskripsi">\"Toyota Kijang Innova is an MPV car made by Toyota Motor Corporation which has been produced in Indonesia by Toyota-Astra Motor since 2004.\"</string>
+    <string name="civic_deskripsi">\"The Honda Civic is a car produced by Honda Motor Co. It was first introduced in July 1972 as a 2-door coupé, followed by a 3-door hatchback version in September of that year. This car adopts a front-wheel drive system, in which the engine is positioned transversely, so that can provide a fairly wide interior space even though the dimensions of the car are relatively small.\"</string>
+    <string name="brio_deskripsi">\"The Brio is a 5-door subcompact hatchback car produced by Honda in Indonesia and Thailand. This car was introduced in March 2011.\"</string>
+    <string name="bmw_deskripsi">\"The BMW X1 is a compact SUV in the luxury category produced by BMW and BMW Brilliance. The X1 is available with rear-wheel drive (sDrive) or all-wheel-drive (xDrive). The concept car was first introduced at the 2008 Paris Motor Show.\"</string>
+    <string name="bmw2_deskripsi">\"The BMW X2 (model code F39) is a subcompact luxury crossover SUV produced by BMW. It was first showcased as the BMW Concept X2 at the 2016 Paris Motor Show,[3] with a production version unveiled in October 2017.\"</string>
+    <string name="bmw3_deskripsi">\"The BMW X3 is a medium-luxury SUV produced by the German company, BMW since 2003. This SUV is based on the BMW 3 Series platform, and now in its third generation, BMW calls this crossover the Sport Activity.</string>
+    <string name="honda">Honda</string>
+    <string name="toyota">Toyota</string>
+    <string name="bmw">BMW</string>
+</resources>
